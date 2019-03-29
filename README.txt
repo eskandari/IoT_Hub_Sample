@@ -1,0 +1,1 @@
+This is C# sample code to connect to IoT Hub using SDK and parse incoming message to IoT Hub
